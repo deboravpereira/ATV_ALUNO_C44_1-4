@@ -133,7 +133,18 @@ class Game {
       this.handlePlayerControls();
 
       //Atividade do aluno
-      
+      const finishLine = height * 6 -100;
+      if ( player atravessar linha de chegada ) {
+        //Atualize o gameState
+        
+        //Atualize o rank
+        
+        //Atualize updateCarsAtEnd
+        
+        //Atualize player
+        
+        //Mostre rank
+      }
 
       drawSprites();
     }
